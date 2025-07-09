@@ -51,26 +51,6 @@ const CtaSection = () => {
           </div>
         </div>
       </section>
-
-      {/* <div className="absolute top-0 left-0 w-full h-screen z-20 flex items-end justify-start p-2 md:p-5">
-        <div className="flex justify-center w-full md:w-auto rounded-lg p-2 shadow-lg ">
-          <Image
-            src="/images/telkom.png"
-            alt="logoTelkom"
-            width={100}
-            height={25}
-            className="mr-2 md:mr-3 bg-white rounded-lg p-1 shadow-lg"
-          />
-
-          <Image
-            src="/images/bumn.png"
-            alt="logoBumn"
-            width={70}
-            height={10}
-            className="bg-white rounded-lg p-1 shadow-lg"
-          />
-        </div>
-      </div> */}
     </div>
   );
 };

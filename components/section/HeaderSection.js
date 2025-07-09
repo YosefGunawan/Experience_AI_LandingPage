@@ -29,10 +29,6 @@ const HeaderSection = () => {
         <div className="w-full h-full lg:w-3/4 px-4 py-8 mx-auto md:px-16 lg:px-0 md:py-16 text-start flex justify-between items-center">
           <div className="md:mr-16 lg:mr-10">
             <div className="mb-4 text-4xl lg:text-8xl tracking-tight text-white">
-              {/* <span className="text-[#FF69FF]">E</span>
-            XPE
-            <span className="text-[#FF69FF]">RI</span>
-            ENCE AI */}
               <div className="text-white font-bold text-start">
                 <span className="block text-2xl md:text-3xl lg:text-5xl leading-tight">
                   <span className="text-[#ff69ff]">Smart </span>
